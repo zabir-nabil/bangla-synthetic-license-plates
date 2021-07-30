@@ -16,5 +16,5 @@ https://www.kaggle.com/furcifer/bangla-license-plates-synthetic
 
 ## 📝📝
 
-[x] Dataset 
-[ ] Publish the synthetic data generator
+- [x] Dataset 
+- [ ] Publish the synthetic data generator
