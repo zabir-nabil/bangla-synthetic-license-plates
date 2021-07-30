@@ -2,6 +2,8 @@ The dataset is synthetic, generated with a mixture of deep learning and image pr
 
 The labels are in darknet yolo format. [.txt, .data, .names]
 
+N.B: The dataset does not contain any real license plates nor does it emulate any real license plates directly. Instead the license plates are generated from uniform distribution of valid license plate characters for bangla.
+
 Contact: https://github.com/zabir-nabil
 
 LICENSE
